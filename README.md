@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there, I'm Heorhii :vulcan_salute: :man_technologist:
+
+![alt-text]()
+
+# Find me aroun the web :earth_americas::
+
+ - Sharing updates on [LinkedIn](https://www.linkedin.com/in/heorhiiskovorodnikov/) :briefcase:
+ - Check out my personal webiste for more (under final stages of construction :hammer_and_wrench:)
+ - Hit me up on [Researchgate](https://www.researchgate.net/profile/Heorhii_Skovorodnikov) :microscope:
 
 <!--
 **HeorhiiS/HeorhiiS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
