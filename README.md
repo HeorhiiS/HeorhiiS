@@ -1,4 +1,4 @@
-# Hi there, I'm Heorhii :vulcan_salute: :man_technologist:
+# Hi there, I'm Heorhii :waive: :man_technologist:
 
 ![alt-text](https://github.com/HeorhiiS/HeorhiiS/blob/master/coding.gif)
 
