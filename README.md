@@ -1,6 +1,6 @@
 # Hi there, I'm Heorhii :vulcan_salute: :man_technologist:
 
-![alt-text]()
+![alt-text](https://github.com/HeorhiiS/HeorhiiS/blob/master/robot.gif)
 
 # Find me around the web :earth_americas::
 
