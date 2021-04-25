@@ -10,7 +10,7 @@ I am a software engineer, researcher and an aspiring enterpreneur, who enjoys ch
  - Check out my personal webiste for more info (under final stages of construction :hammer_and_wrench:)
  - Hit me up on [ResearchGate](https://www.researchgate.net/profile/Heorhii_Skovorodnikov) :microscope:
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=HeorhiiS&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=HeorhiiS&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeorhiiS&hide=TeX&layout=compact)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=HeorhiiS.HeorhiiS)
