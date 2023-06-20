@@ -2,7 +2,7 @@
 
 ![alt-text](https://github.com/HeorhiiS/HeorhiiS/blob/master/coding.gif)
 
-I am a scientist, engineer and an aspiring enterpreneur, who enjoys challenging tasks, creating new products and building intelligent applications. Passionate about AI, automation, emerging technologies as well as their social implications. Interested in all things AI, cool open source tools, and security.  When I am not working on major projects I contribute to open source and dabble in hardware & robotics. Hit me up on LinkedIn or email!
+I am a scientist, engineer and an aspiring enterpreneur. Passionate about AI, automation, emerging technologies as well as their social implications. Interested in all things AI, robots, cool open source tools, and security.  When I am not working on major projects I contribute to open source and dabble in hardware & robotics. Hit me up on LinkedIn or email!
 
 # Find me around the web :earth_americas::
 
