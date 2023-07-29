@@ -2,9 +2,9 @@
 
 ![alt-text](https://github.com/HeorhiiS/HeorhiiS/blob/master/coding.gif)
 
-Hit me up on LinkedIn or email.
+I am a scientist and a builder who loves AI and robots 🤖.
 
-# Find me on twitter or contact me on email :earth_americas::
+# Located on the web at :earth_americas::
  - [Twitter](https://twitter.com/georgiysk) 🐦
  - Website :hammer_and_wrench:  -> constructing
  <!-- [LinkedIn](https://www.linkedin.com/in/heorhiiskovorodnikov/) :briefcase:
