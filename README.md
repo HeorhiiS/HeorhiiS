@@ -1,4 +1,4 @@
-# Hi there, I'm Heorhii/Georgiy/Yurii :wave: :man_technologist: 👨‍🚀
+# Hi there, I'm Georgiy/Yurii :wave: :man_technologist: 👨‍🚀
 
 ![alt-text](https://github.com/HeorhiiS/HeorhiiS/blob/master/coding.gif)
 
