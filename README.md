@@ -2,10 +2,10 @@
 
 ![alt-text](https://github.com/HeorhiiS/HeorhiiS/blob/master/coding.gif)
 
-I am a scientist and a builder who loves AI and robots 🤖.
+Research scientist, currently at NYU.
 
 # Located on the web at :earth_americas::
- - [Twitter](https://twitter.com/georgiysk) 🐦
+ - [X](https://x.com/georgiysk) 🐦
  - Website :hammer_and_wrench:  -> constructing
  <!-- [LinkedIn](https://www.linkedin.com/in/heorhiiskovorodnikov/) :briefcase:
 
